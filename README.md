@@ -9,9 +9,7 @@ AI-powered applications with RAG and LLM integration.
 React · TypeScript · Next.js · Node.js · Python · PostgreSQL · Docker · AWS
 
 ## Currently working on
-- AI-powered applications with RAG pipelines and vector databases
-- Data structures & algorithms (Java)
-- System design fundamentals
+AI-powered applications with RAG pipelines and vector databases · DSA in Java · System design fundamentals
 
 ## Links
-- [LinkedIn](https://www.linkedin.com/in/abhishek-kapil-2307/)
+[LinkedIn](https://www.linkedin.com/in/abhishek-kapil-2307/)
