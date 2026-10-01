@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Kapil
 
-Full-stack developer with 6+ years of experience building web applications 
+Full-stack developer with 2+ years of experience building web applications 
 for clients across e-commerce, SaaS, and enterprise platforms. Currently 
 studying Computer Science at Simon Fraser University and focused on building 
 AI-powered applications with RAG and LLM integration.
